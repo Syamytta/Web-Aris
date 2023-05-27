@@ -445,7 +445,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 /*---------------------------------------------*/
 .main-menu > li:hover > a {
   text-decoration: none;
-  color: #6c7ae0;
+  color: orange;
 }
 
 .main-menu > li:hover > .sub-menu {
@@ -643,7 +643,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 /*---------------------------------------------*/
 .main-menu > li.active-menu > a {
-  color: #6c7ae0;
+  color: orange;
 }
 
 
@@ -2646,7 +2646,7 @@ input.num-product::-webkit-inner-spin-button {
 ==================================================================*/
 .bg-none {background-color: transparent;}
 .bg0 {background-color: #fff;}
-.bg1 {background-color: #717fe0;}
+.bg1 {background-color: #333333;}
 .bg2 {background-color: #e6e6e6;}
 .bg3 {background-color: #222;}
 .bg5 {background-color: rgba(0,0,0,0.5);}
@@ -2672,8 +2672,9 @@ input.num-product::-webkit-inner-spin-button {
 /*---------------------------------------------*/
 .bg-img1 {
   background-size: cover;
-  background-position: center center;
+  background-position: center top;
   background-repeat: no-repeat;
+  opacity:img(0.5);
 }
 
 
@@ -3057,7 +3058,7 @@ input.num-product::-webkit-inner-spin-button {
 .hov-cl0:hover {color: #fff;}
 .hov-bg0:hover {background-color: #fff;}
 .hov-cl1:hover {color: pink;}
-.hov-bg1:hover {background-color: pink;}
+.hov-bg1:hover {background-color: yellow;}
 
 /*---------------------------------------------*/
 .hov-img0 {
@@ -3334,7 +3335,7 @@ input.num-product::-webkit-inner-spin-button {
     padding: 20px;
   }
 
-#load{
-  display: none;
-}
+  #myDIVBarang {
+    display: none;
+  }
 }
