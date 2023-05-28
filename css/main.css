@@ -737,7 +737,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 .main-menu-m {
   padding-top: 10px;
   padding-bottom: 10px;
-  background-color: #717fe0;
+  background-color: #333333;
 }
 
 .main-menu-m > li > a {
@@ -3057,7 +3057,7 @@ input.num-product::-webkit-inner-spin-button {
 
 .hov-cl0:hover {color: #fff;}
 .hov-bg0:hover {background-color: #fff;}
-.hov-cl1:hover {color: pink;}
+.hov-cl1:hover {color: orange;}
 .hov-bg1:hover {background-color: yellow;}
 
 /*---------------------------------------------*/
