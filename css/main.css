@@ -166,7 +166,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   height: 38px;
   bottom: 0px;
   right: 40px;
-  background-color: #717fe0;
+  background-color: #333;
   opacity: 0.5;
   justify-content: center;
   align-items: center;
@@ -186,7 +186,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 
 .btn-back-to-top:hover {
   opacity: 1;
-  background-color: #717fe0;
+  background-color: orange;
 }
 
 @media (max-width: 575px) {
@@ -2128,7 +2128,7 @@ input.num-product::-webkit-inner-spin-button {
     TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT TEXT
 ==================================================================*/
 .cl0 {color: #fff;}
-.cl1 {color: #717fe0;}
+.cl1 {color: #333333;}
 .cl2 {color: #333;}
 .cl3 {color: #666;}
 .cl4 {color: #999;}
@@ -3085,7 +3085,7 @@ input.num-product::-webkit-inner-spin-button {
 /*---------------------------------------------*/
 .hov-btn1:hover {
   border-color: #222;
-  background-color: #222;
+  background-color: orange;
   color: #fff;
 }
 
