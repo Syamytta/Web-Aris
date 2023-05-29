@@ -1220,6 +1220,13 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
   background-position: center center;
 }
 
+.item-slick2 {
+  height: calc(50vh - 40px);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 .rs1-slick1 .item-slick1 {
   height: calc(100vh - 84px);
 }
