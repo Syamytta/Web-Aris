@@ -268,15 +268,143 @@
     
     /*==================================================================
     [ Show modal1 ]*/
-    $('.js-show-modal1').on('click',function(e){
+
+    // DCI
+
+    // classic series
+    $('.js-show-modal11a').on('click',function(e){
         e.preventDefault();
-        $('.js-modal1').addClass('show-modal1');
+        $('.js-modal11a').addClass('show-modal11a');
+    });
+    $('.js-hide-modal11a').on('click',function(){
+        $('.js-modal11a').removeClass('show-modal11a');
     });
 
-    $('.js-hide-modal1').on('click',function(){
-        $('.js-modal1').removeClass('show-modal1');
+    $('.js-show-modal11b').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal11b').addClass('show-modal11b');
+    });
+    $('.js-hide-modal11b').on('click',function(){
+        $('.js-modal11b').removeClass('show-modal11b');
     });
 
+    $('.js-show-modal11c').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal11c').addClass('show-modal11c');
+    });
+    $('.js-hide-modal11c').on('click',function(){
+        $('.js-modal11c').removeClass('show-modal11c');
+    });
+
+    $('.js-show-modal11d').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal11d').addClass('show-modal11d');
+    });
+    $('.js-hide-modal11d').on('click',function(){
+        $('.js-modal11d').removeClass('show-modal11d');
+    });
+
+    // dilltea pureness
+
+    // japanese tea powder
+    $('.js-show-modal21a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal21a').addClass('show-modal21a');
+    });
+    $('.js-hide-modal21a').on('click',function(){
+        $('.js-modal21a').removeClass('show-modal21a');
+    });
+//
+    $('.js-show-modal21b').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal21b').addClass('show-modal21b');
+    });
+    $('.js-hide-modal21b').on('click',function(){
+        $('.js-modal21b').removeClass('show-modal21b');
+    });
+    //
+    $('.js-show-modal21c').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal21c').addClass('show-modal21c');
+    });
+    $('.js-hide-modal21c').on('click',function(){
+        $('.js-modal21c').removeClass('show-modal21c');
+    });
+    //
+    $('.js-show-modal21d').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal21d').addClass('show-modal21d');
+    });
+    $('.js-hide-modal21d').on('click',function(){
+        $('.js-modal21d').removeClass('show-modal21d');
+    });
+
+    // modal 3
+    $('.js-show-modal31a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal31a').addClass('show-modal31a');
+    });
+    $('.js-hide-modal31a').on('click',function(){
+        $('.js-modal31a').removeClass('show-modal31a');
+    });
+    //
+    $('.js-show-modal31b').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal31b').addClass('show-modal31b');
+    });
+    $('.js-hide-modal31b').on('click',function(){
+        $('.js-modal31b').removeClass('show-modal31b');
+    });
+    //
+    $('.js-show-modal31c').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal31c').addClass('show-modal31c');
+    });
+    $('.js-hide-modal31c').on('click',function(){
+        $('.js-modal31c').removeClass('show-modal31c');
+    });
+    //
+    $('.js-show-modal31d').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal31d').addClass('show-modal31d');
+    });
+    $('.js-hide-modal31d').on('click',function(){
+        $('.js-modal31d').removeClass('show-modal31d');
+    });
+    //
+    $('.js-show-modal31e').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal31e').addClass('show-modal31e');
+    });
+    $('.js-hide-modal31e').on('click',function(){
+        $('.js-modal31e').removeClass('show-modal31e');
+    });
+    //
+    $('.js-show-modal31f').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal31f').addClass('show-modal31f');
+    });
+    $('.js-hide-modal31f').on('click',function(){
+        $('.js-modal31f').removeClass('show-modal31f');
+    });
+    //
+    $('.js-show-modal31g').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal31g').addClass('show-modal31g');
+    });
+    $('.js-hide-modal31g').on('click',function(){
+        $('.js-modal31g').removeClass('show-modal31g');
+    });
+    
+    // modal 4
+    $('.js-show-modal12a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal12a').addClass('show-modal12a');
+    });
+
+    $('.js-hide-modal12a').on('click',function(){
+        $('.js-modal12a').removeClass('show-modal12a');
+    });
 
 
 })(jQuery);

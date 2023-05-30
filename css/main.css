@@ -1221,7 +1221,7 @@ Input, textarea : 14px/1.6 '', Arial, sans-serif;
 }
 
 .item-slick2 {
-  height: calc(50vh - 40px);
+  height: calc(30vh);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1908,10 +1908,107 @@ input.num-product::-webkit-inner-spin-button {
   opacity: 0.8;
 }
 
-.show-modal1 {
+/* DCI CLASSIC SERIES */
+.show-modal11a {
   visibility: visible;
   opacity: 1;
 }
+
+.show-modal11b {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal11c {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal11d {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* DCI FINE CHOCO */
+.show-modal12a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal12b {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal12c {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal12d {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* DILLTEA PURENESS POWDER */
+.show-modal21a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal21b {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal21c {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal21d {
+  visibility: visible;
+  opacity: 1;
+}
+
+
+/* FLAVORICH POWDER */
+.show-modal31a {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal31b {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal31c {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal31d {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal31e {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal31f {
+  visibility: visible;
+  opacity: 1;
+}
+
+.show-modal31g {
+  visibility: visible;
+  opacity: 1;
+}
+
+
 
 /*//////////////////////////////////////////////////////////////////
 [ Table Shopping Cart ]*/
@@ -2026,7 +2123,7 @@ input.num-product::-webkit-inner-spin-button {
 
 /*---------------------------------------------*/
 .block1-txt:hover {
-  background-color: hsla(55, 100%, 45%, 0.5);
+  background-color: hsla(0, 0%, 73%, 0.5);
 }
 
 .block1-txt:hover .block1-txt-child2 {
