@@ -261,6 +261,14 @@
     $('.js-hide-modal31g').on('click',function(){
         $('.js-modal31g').removeClass('show-modal31g');
     });
+    //
+    $('.js-show-modal31h').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal31h').addClass('show-modal31h');
+    });
+    $('.js-hide-modal31h').on('click',function(){
+        $('.js-modal31h').removeClass('show-modal31h');
+    });
     
     //syrup
     $('.js-show-modal32a').on('click',function(e){
