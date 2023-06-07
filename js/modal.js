@@ -103,6 +103,46 @@
         $('.js-modal13d').removeClass('show-modal13d');
     });
 
+    $('.js-show-modal13e').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal13e').addClass('show-modal13e');
+    });
+    $('.js-hide-modal13e').on('click',function(){
+        $('.js-modal13e').removeClass('show-modal13e');
+    });
+
+    $('.js-show-modal13f').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal13f').addClass('show-modal13f');
+    });
+    $('.js-hide-modal13f').on('click',function(){
+        $('.js-modal13f').removeClass('show-modal13f');
+    });
+
+    $('.js-show-modal13g').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal13g').addClass('show-modal13g');
+    });
+    $('.js-hide-modal13g').on('click',function(){
+        $('.js-modal13g').removeClass('show-modal13g');
+    });
+
+    $('.js-show-modal13h').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal13h').addClass('show-modal13h');
+    });
+    $('.js-hide-modal13h').on('click',function(){
+        $('.js-modal13h').removeClass('show-modal13h');
+    });
+
+    $('.js-show-modal13i').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal13i').addClass('show-modal13i');
+    });
+    $('.js-hide-modal13i').on('click',function(){
+        $('.js-modal13i').removeClass('show-modal13i');
+    });
+
     // dilltea pureness
 
     // japanese tea powder
