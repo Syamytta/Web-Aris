@@ -1,3 +1,5 @@
+/* DCI */
+/* CLASSIC */
 .show-modal11a {
     visibility: visible;
     opacity: 1;
@@ -18,7 +20,11 @@
     opacity: 1;
   }
   
-  /* DCI FINE CHOCO */
+
+
+
+
+   /* FINE CHOCO */
   .show-modal12a {
     visibility: visible;
     opacity: 1;
@@ -39,7 +45,11 @@
     opacity: 1;
   }
 
-  /* 3in1 series */
+
+
+
+
+  /* 3IN1 SERIES */
   .show-modal13a {
     visibility: visible;
     opacity: 1;
@@ -70,22 +80,37 @@
     opacity: 1;
   }
 
-  .show-modal13g {
+
+
+
+
+  /* CHOCOLATE COMMERCIAL */
+  .show-modal14a {
     visibility: visible;
     opacity: 1;
   }
 
-  .show-modal13h {
+  .show-modal14b {
     visibility: visible;
     opacity: 1;
   }
 
-  .show-modal13i {
+  .show-modal14c {
     visibility: visible;
     opacity: 1;
   }
   
-  /* DILLTEA PURENESS POWDER */
+
+
+
+
+
+
+
+
+
+  /* DILLTEA PURENESS */
+  /* POWDER MATCHA */
   .show-modal21a {
     visibility: visible;
     opacity: 1;
@@ -106,6 +131,11 @@
     opacity: 1;
   }
 
+
+
+
+
+  /* LOOSE TEA */
   .show-modal22a {
     visibility: visible;
     opacity: 1;
@@ -126,6 +156,11 @@
     opacity: 1;
   }
 
+
+
+
+
+  /* SIGNATURE TEA */
   .show-modal23a {
     visibility: visible;
     opacity: 1;
@@ -145,9 +180,52 @@
     visibility: visible;
     opacity: 1;
   }
+
+
+
+
+
+  /* TRIBLEND SERIES */
+  .show-modal24a {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal24b {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal24c {
+    visibility: visible;
+    opacity: 1;
+  }
+
+
+
+
+  /* TEABLEND SERIES */
+  .show-modal25a {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal25b {
+    visibility: visible;
+    opacity: 1;
+  }
   
   
-  /* FLAVORICH POWDER */
+  
+  
+  
+  
+  
+  
+  
+  
+  /* FLAVORICH */
+  /* POWDER */
   .show-modal31a {
     visibility: visible;
     opacity: 1;
@@ -188,7 +266,11 @@
     opacity: 1;
   }
 
-  /* syrup */
+
+
+
+
+  /* SYRUP */
   .show-modal32a {
     visibility: visible;
     opacity: 1;
@@ -234,8 +316,37 @@
     opacity: 1;
   }
 
-  /* kopisiliwangi */
-  /* premium roasted coffee */
+
+
+
+
+  /* CREAMER */
+  .show-modal33a {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal33b {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal33c {
+    visibility: visible;
+    opacity: 1;
+  }
+
+
+
+
+
+
+
+
+
+
+  /* KOPSIL */
+  /* PREMIUM ROASTED COFFEE */
   .show-modal41a {
     visibility: visible;
     opacity: 1;
@@ -257,7 +368,10 @@
   }
 
 
-  /* specialblend */
+
+
+
+  /* SPECIAL BLEND */
   .show-modal42a {
     visibility: visible;
     opacity: 1;
@@ -278,7 +392,11 @@
     opacity: 1;
   }
 
-  /* singleorigin */
+
+
+
+
+  /* SINGLE ORIGIN */
   .show-modal43a {
     visibility: visible;
     opacity: 1;
@@ -320,6 +438,86 @@
   }
 
   .show-modal43i {
+    visibility: visible;
+    opacity: 1;
+  }
+
+
+
+
+
+  /* KOPI KRISTALISASI TANPA AMPAS */
+  .show-modal44a {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal44b {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal44c {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal44d {
+    visibility: visible;
+    opacity: 1;
+  }
+
+
+
+
+
+  /* CRISCO */
+  .show-modal45a {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal45b {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal45c {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+
+
+
+
+
+
+
+  /* PALM SUGAR */
+  .show-modal51a {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+  .show-modal51b {
+    visibility: visible;
+    opacity: 1;
+  }
+  
+
+
+
+
+
+
+
+
+
+  /* GMN */
+  .show-modal61a {
     visibility: visible;
     opacity: 1;
   }

@@ -3,8 +3,7 @@
     "use strict";
 
     // DCI
-
-    // classic series
+    // CLASSIC
     $('.js-show-modal11a').on('click',function(e){
         e.preventDefault();
         $('.js-modal11a').addClass('show-modal11a');
@@ -36,8 +35,12 @@
     $('.js-hide-modal11d').on('click',function(){
         $('.js-modal11d').removeClass('show-modal11d');
     });
+    
 
-    // fine choco
+
+
+
+    // FINE CHOCO
     $('.js-show-modal12a').on('click',function(e){
         e.preventDefault();
         $('.js-modal12a').addClass('show-modal12a');
@@ -70,7 +73,11 @@
         $('.js-modal12d').removeClass('show-modal12d');
     });
 
-    // 3in1 Series
+
+
+
+
+    // 3IN1 SERIES
     $('.js-show-modal13a').on('click',function(e){
         e.preventDefault();
         $('.js-modal13a').addClass('show-modal13a');
@@ -119,33 +126,41 @@
         $('.js-modal13f').removeClass('show-modal13f');
     });
 
-    $('.js-show-modal13g').on('click',function(e){
+
+
+
+
+    // CHOCOLATE COMMERCIAL
+    $('.js-show-modal14a').on('click',function(e){
         e.preventDefault();
-        $('.js-modal13g').addClass('show-modal13g');
+        $('.js-modal14a').addClass('show-modal14a');
     });
-    $('.js-hide-modal13g').on('click',function(){
-        $('.js-modal13g').removeClass('show-modal13g');
+    $('.js-hide-modal14a').on('click',function(){
+        $('.js-modal14a').removeClass('show-modal14a');
     });
 
-    $('.js-show-modal13h').on('click',function(e){
+    $('.js-show-modal14b').on('click',function(e){
         e.preventDefault();
-        $('.js-modal13h').addClass('show-modal13h');
+        $('.js-modal14b').addClass('show-modal14b');
     });
-    $('.js-hide-modal13h').on('click',function(){
-        $('.js-modal13h').removeClass('show-modal13h');
+    $('.js-hide-modal14b').on('click',function(){
+        $('.js-modal14b').removeClass('show-modal14b');
     });
 
-    $('.js-show-modal13i').on('click',function(e){
+    $('.js-show-modal14c').on('click',function(e){
         e.preventDefault();
-        $('.js-modal13i').addClass('show-modal13i');
+        $('.js-modal14c').addClass('show-modal14c');
     });
-    $('.js-hide-modal13i').on('click',function(){
-        $('.js-modal13i').removeClass('show-modal13i');
+    $('.js-hide-modal14c').on('click',function(){
+        $('.js-modal14c').removeClass('show-modal14c');
     });
 
-    // dilltea pureness
 
-    // japanese tea powder
+
+
+
+    // DILLTEA PURENESS
+    // POWDER MATCHA
     $('.js-show-modal21a').on('click',function(e){
         e.preventDefault();
         $('.js-modal21a').addClass('show-modal21a');
@@ -178,7 +193,11 @@
         $('.js-modal21d').removeClass('show-modal21d');
     });
 
-    // loose tea
+
+
+
+
+    // LOOSE TEA
     $('.js-show-modal22a').on('click',function(e){
         e.preventDefault();
         $('.js-modal22a').addClass('show-modal22a');
@@ -211,7 +230,11 @@
         $('.js-modal22d').removeClass('show-modal22d');
     });
 
-    // Sigmature
+    
+
+
+
+    // SIGNATURE TEA
     $('.js-show-modal23a').on('click',function(e){
         e.preventDefault();
         $('.js-modal23a').addClass('show-modal23a');
@@ -219,7 +242,7 @@
     $('.js-hide-modal23a').on('click',function(){
         $('.js-modal23a').removeClass('show-modal23a');
     });
-//
+
     $('.js-show-modal23b').on('click',function(e){
         e.preventDefault();
         $('.js-modal23b').addClass('show-modal23b');
@@ -244,8 +267,62 @@
         $('.js-modal23d').removeClass('show-modal23d');
     });
 
-    // flavorich
-    //powder
+
+
+
+
+    // TRIBLEND SERIES
+    $('.js-show-modal24a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal24a').addClass('show-modal24a');
+    });
+    $('.js-hide-modal24a').on('click',function(){
+        $('.js-modal24a').removeClass('show-modal24a');
+    });
+
+    $('.js-show-modal24b').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal24b').addClass('show-modal24b');
+    });
+    $('.js-hide-modal24b').on('click',function(){
+        $('.js-modal24b').removeClass('show-modal24b');
+    });
+    //
+    $('.js-show-modal24c').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal24c').addClass('show-modal24c');
+    });
+    $('.js-hide-modal24c').on('click',function(){
+        $('.js-modal24c').removeClass('show-modal24c');
+    });
+
+
+
+
+
+    // TEABLEND
+    $('.js-show-modal25a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal25a').addClass('show-modal25a');
+    });
+    $('.js-hide-modal25a').on('click',function(){
+        $('.js-modal25a').removeClass('show-modal25a');
+    });
+
+    $('.js-show-modal25b').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal25b').addClass('show-modal25b');
+    });
+    $('.js-hide-modal25b').on('click',function(){
+        $('.js-modal25b').removeClass('show-modal25b');
+    });
+
+
+
+
+
+    // FLAVORICH
+    // POWDER
     $('.js-show-modal31a').on('click',function(e){
         e.preventDefault();
         $('.js-modal31a').addClass('show-modal31a');
@@ -310,7 +387,11 @@
         $('.js-modal31h').removeClass('show-modal31h');
     });
     
-    //syrup
+
+
+
+
+    // SYRUP
     $('.js-show-modal32a').on('click',function(e){
         e.preventDefault();
         $('.js-modal32a').addClass('show-modal32a');
@@ -383,8 +464,46 @@
         $('.js-modal32i').removeClass('show-modal32i');
     });
 
-    // kopsil
-    // premium roasted
+
+
+
+
+    // CREAMER
+    $('.js-show-modal33a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal33a').addClass('show-modal33a');
+    });
+    $('.js-hide-modal33a').on('click',function(){
+        $('.js-modal33a').removeClass('show-modal33a');
+    });
+    //
+    $('.js-show-modal33b').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal33b').addClass('show-modal33b');
+    });
+    $('.js-hide-modal33b').on('click',function(){
+        $('.js-modal33b').removeClass('show-modal33b');
+    });
+    //
+    $('.js-show-modal33c').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal33c').addClass('show-modal33c');
+    });
+    $('.js-hide-modal33c').on('click',function(){
+        $('.js-modal33c').removeClass('show-modal33c');
+    });
+
+
+
+
+
+
+
+
+
+
+    // KOPSIL
+    // PREMIUM ROASTED COFFEE
     $('.js-show-modal41a').on('click',function(e){
         e.preventDefault();
         $('.js-modal41a').addClass('show-modal41a');
@@ -417,7 +536,11 @@
         $('.js-modal41d').removeClass('show-modal41d');
     });
 
-    // specialblend
+
+
+
+
+    // SPECIAL BLEND
     $('.js-show-modal42a').on('click',function(e){
         e.preventDefault();
         $('.js-modal42a').addClass('show-modal42a');
@@ -450,7 +573,11 @@
         $('.js-modal42d').removeClass('show-modal42d');
     });
 
-    // singleorigin
+
+
+
+
+    // SINGLE ORIGIN
     $('.js-show-modal43a').on('click',function(e){
         e.preventDefault();
         $('.js-modal43a').addClass('show-modal43a');
@@ -522,5 +649,116 @@
     $('.js-hide-modal43i').on('click',function(){
         $('.js-modal43i').removeClass('show-modal43i');
     });
+
+
+
+
+
+    // KOPI KRISTALISASI TANPA AMPAS
+    $('.js-show-modal44a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal44a').addClass('show-modal44a');
+    });
+    $('.js-hide-modal44a').on('click',function(){
+        $('.js-modal44a').removeClass('show-modal44a');
+    });
+    //
+    $('.js-show-modal44b').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal44b').addClass('show-modal44b');
+    });
+    $('.js-hide-modal44b').on('click',function(){
+        $('.js-modal44b').removeClass('show-modal44b');
+    });
+    //
+    $('.js-show-modal44c').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal44c').addClass('show-modal44c');
+    });
+    $('.js-hide-modal44c').on('click',function(){
+        $('.js-modal44c').removeClass('show-modal44c');
+    });
+    //
+    $('.js-show-modal44d').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal44d').addClass('show-modal44d');
+    });
+    $('.js-hide-modal44d').on('click',function(){
+        $('.js-modal44d').removeClass('show-modal44d');
+    });
+
+
+
+
+
+    // CRISCO
+    $('.js-show-modal45a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal45a').addClass('show-modal45a');
+    });
+    $('.js-hide-modal45a').on('click',function(){
+        $('.js-modal45a').removeClass('show-modal45a');
+    });
+    //
+    $('.js-show-modal45b').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal45b').addClass('show-modal45b');
+    });
+    $('.js-hide-modal45b').on('click',function(){
+        $('.js-modal45b').removeClass('show-modal45b');
+    });
+    //
+    $('.js-show-modal45c').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal45c').addClass('show-modal45c');
+    });
+    $('.js-hide-modal45c').on('click',function(){
+        $('.js-modal45c').removeClass('show-modal45c');
+    });
+   
+
+
+
+
+
+
+
+
+
+    // PALM SUGAR
+    $('.js-show-modal51a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal51a').addClass('show-modal51a');
+    });
+    $('.js-hide-modal51a').on('click',function(){
+        $('.js-modal51a').removeClass('show-modal51a');
+    });
+    //
+    $('.js-show-modal51b').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal51b').addClass('show-modal51b');
+    });
+    $('.js-hide-modal51b').on('click',function(){
+        $('.js-modal51b').removeClass('show-modal51b');
+    });
+
+
+
+
+
+
+
+
+
+
+    // GMN
+    $('.js-show-modal61a').on('click',function(e){
+        e.preventDefault();
+        $('.js-modal61a').addClass('show-modal61a');
+    });
+    $('.js-hide-modal61a').on('click',function(){
+        $('.js-modal61a').removeClass('show-modal61a');
+    });
+   
 
 })(jQuery);
